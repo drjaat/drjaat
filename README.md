@@ -18,8 +18,9 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Tailwind-cc6699?style=flat&logo=tailwind&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
@@ -59,7 +60,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Dhruv Rana](https://github.com/drjaat)
 
 [website]: https://itsdrjaat.com
 [twitter]: https://twitter.com/itsdrjaat
