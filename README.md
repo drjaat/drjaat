@@ -1,7 +1,7 @@
 ### Hey Dhruv Rana here 👋
 
 ---
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design and Thinking Skills. :wink:
+I am a Full-stack Web Developer and Mobile who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design and Thinking Skills. :wink:
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
@@ -46,6 +46,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/d
 
 
 ### You can find in me in the web 🌍
+[<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/globe--v1.png" alt="globe--v1"/>][test]
 [<img align="left" alt="drjaat" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="drjaat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="drjaat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
