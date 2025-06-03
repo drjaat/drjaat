@@ -1,0 +1,34 @@
+name: Update Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # every Monday at 6 AM
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update script
+        env:
+          GH_ENTERPRISE_TOKEN: ${{ secrets.GH_ENTERPRISE_TOKEN }}
+          GH_ENTERPRISE_API: https://github.company.com/api/v3
+        run: node update-metrics.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update contribution metrics" || echo "No changes"
+          git push
