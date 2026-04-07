@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhruvrana.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvrana.dev)
 [![VidifyAI](https://img.shields.io/badge/VidifyAI_Studio-vidifyaistudio.com-06B6D4?style=for-the-badge&logo=youtube&logoColor=white)](https://vidifyaistudio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-drjaat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drjaat)
-[![Twitter](https://img.shields.io/badge/Twitter-itsdrjaat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsdrjaat)
+[![Twitter](https://img.shields.io/badge/Twitter-itsdrjaat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itsdrjaat)
 
 </div>
 
@@ -107,7 +107,7 @@ I'm a **Software Engineer (Frontend)** at **Walmart** and the founder of **[Vidi
 
 I'm always open to discussing **frontend engineering**, **SaaS product strategy**, **AI tooling**, or **startup ideas**.
 
-[![Email](https://img.shields.io/badge/Say_Hi-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv@dhruvrana.dev)
+[![Email](https://img.shields.io/badge/Say_Hi-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranadhruvrana@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-itsdrjaat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsdrjaat)
 
 <br/>
