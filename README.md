@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Rana+%F0%9F%91%8B;Frontend+Engineer+%40+Walmart;Founder+of+VidifyAI+Studio+%26+AppGenie;Building+the+future%2C+one+component+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Dhruv+Rana+%F0%9F%91%8B;Frontend+Engineer+%40+Walmart;Founder+of+VidifyAI+Studio+%26+AppGenie;Building+the+future%2C+one+component+at+a+time." alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhruvrana.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvrana.dev)
 [![VidifyAI](https://img.shields.io/badge/VidifyAI_Studio-vidifyaistudio.com-06B6D4?style=for-the-badge&logo=youtube&logoColor=white)](https://vidifyaistudio.com)
 [![AppGenie](https://img.shields.io/badge/AppGenie-getappgenie.com-7C3AED?style=for-the-badge&logo=appveyor&logoColor=white)](https://getappgenie.com/)
+[br/]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-drjaat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drjaat)
 [![Twitter](https://img.shields.io/badge/Twitter-itsdrjaat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itsdrjaat)
 
