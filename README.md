@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Rana+%F0%9F%91%8B;Frontend+Engineer+%40+Walmart;Founder+of+VidifyAI+Studio;Building+the+future%2C+one+component+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhruv+Rana+%F0%9F%91%8B;Frontend+Engineer+%40+Walmart;Founder+of+VidifyAI+Studio+%26+AppGenie;Building+the+future%2C+one+component+at+a+time." alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dhruvrana.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruvrana.dev)
 [![VidifyAI](https://img.shields.io/badge/VidifyAI_Studio-vidifyaistudio.com-06B6D4?style=for-the-badge&logo=youtube&logoColor=white)](https://vidifyaistudio.com)
+[![AppGenie](https://img.shields.io/badge/AppGenie-getappgenie.com-7C3AED?style=for-the-badge&logo=appveyor&logoColor=white)](https://getappgenie.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-drjaat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drjaat)
 [![Twitter](https://img.shields.io/badge/Twitter-itsdrjaat-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itsdrjaat)
 
@@ -13,12 +14,12 @@
 
 ---
 
-## 👨‍💻 About Me
+-## 👨‍💻 About Me
 
-I'm a **Software Engineer (Frontend)** at **Walmart** and the founder of **[VidifyAI Studio](https://vidifyaistudio.com)** — an AI-powered video generation SaaS platform competing with HeyGen & Synthesia.
+I'm a **Software Engineer (Frontend)** at **Walmart**, and the founder of **[VidifyAI Studio](https://vidifyaistudio.com)** and **[AppGenie](https://getappgenie.com/)** — VidifyAI focuses on AI-powered video generation; AppGenie is a production-grade AI software factory that generates, refines, and deploys full React Native and web applications from natural language using a multi-agent pipeline, diff-aware routing, and parallel/patch-based code generation.
 
 - 🏢 **Day job**: Building scalable React/TypeScript frontends at Walmart, Bangalore
-- 🚀 **Side mission**: Shipping [VidifyAI Studio](https://vidifyaistudio.com) — AI avatars, video templates & enterprise-grade video creation
+- 🚀 **Side mission**: Shipping [VidifyAI Studio](https://vidifyaistudio.com) and [AppGenie](https://getappgenie.com/) — AI avatars, video templates, enterprise-grade video creation, and a production-grade AI software factory for generating, refining, and deploying full React Native and web apps from natural language
 - ☁️ Exploring **cloud architecture** (Azure, Cloudflare) for AI media pipelines
 - 📈 Passionate about **SaaS product strategy**, **SEO/AEO**, and **Indian markets**
 - 💬 Ask me about **React, TypeScript, System Design, SaaS, or AI video tooling**
@@ -65,14 +66,21 @@ I'm a **Software Engineer (Frontend)** at **Walmart** and the founder of **[Vidi
 
 <table>
   <tr>
-    <td width="50%">
+   <td width="33%">
+      <h3>🛠 AppGenie</h3>
+      <p>Production-grade AI software factory that generates, refines, and deploys full React Native and web applications from natural language using a multi-agent pipeline, diff-aware routing, and parallel/patch-based code generation.</p>
+      <a href="https://getappgenie.com/">
+        <img src="https://img.shields.io/badge/Live-getappgenie.com-7C3AED?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33%">
       <h3>🎬 VidifyAI Studio</h3>
       <p>AI-powered video generation platform with enterprise-grade templates, AI avatars, and a PixiJS-based video editor. Competing in the HeyGen / Synthesia space.</p>
       <a href="https://vidifyaistudio.com">
         <img src="https://img.shields.io/badge/Live-vidifyaistudio.com-7C3AED?style=for-the-badge" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>📦 Large File Uploader</h3>
       <p>Robust chunked file upload solution with resumable uploads, progress tracking, and cloud storage integration.</p>
       <a href="https://github.com/drjaat">
